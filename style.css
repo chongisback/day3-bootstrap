@@ -1,0 +1,12 @@
+div{
+  border: 1px dotted black;
+  height: 70px;
+}
+
+.redBox {
+  background-color: red;
+}
+
+.blueBox {
+  background-color: blue;
+}
