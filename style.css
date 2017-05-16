@@ -1,12 +1,25 @@
 div{
-  border: 1px dotted black;
-  height: 70px;
+  height: 100px;
 }
 
 .redBox {
   background-color: red;
 }
-
+.tanBox{
+  background-color: #ffe6cc;
+}
+.dotBox{
+  background-color: #ffcc99;
+}
 .blueBox {
   background-color: blue;
+}
+.whiteBox {
+  background-color: white;
+}
+.blackBox {
+  background-color: black;
+}
+.purpleBox {
+  background-color: purple;
 }
